@@ -1,0 +1,147 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title></title><!-- Latest compiled and minified CSS -->
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-beta.2/css/bootstrap.min.css">
+  <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.8.2/css/all.css" integrity="sha384-oS3vJWv+0UjzBfQzYUhtDYW+Pj2yciDJxpsK1OYPAYjqT085Qq/1cq5FLXAZQ7Ay" crossorigin="anonymous">
+  <link rel="stylesheet" href="btl.css">
+</head>
+  <header style="background-color: #12466D;">
+  <div class="container" style="background-color: #12466D;">
+    <div class="row" id="khovl">
+      <div class="col-sm-4">
+        <a href="#"><img src="http://vnuf.edu.vn/cms_dhln2-theme/images/logo.png"></a>
+      </div>
+    </div>
+</div>
+<div id="d2">
+  <div class="col-sm-8 " >
+          <div id="d1" class="row1" style="display: flex;justify-content: flex-end;color: white;">
+            <a href="" style="color: white">L?ch tu?n</a>
+            |
+            <a href=""style="color: white">E-mail</a>
+            |
+            <a href=""style="color: white">Li¨ºn h?</a>
+            |
+            <a href=""style="color: white">S? ?? trang</a>
+          </div>
+
+    <div class="input-group md-form form-sm form-2 pl-0">
+                  <input class="form-control my-0 py-1 amber-border" type="text" placeholder="Search" aria-label="Search" id="s1">
+    </div>
+      <div id="search">
+                    <a href="" title=""><i class="fas fa-search" style="color: black;"></i></a>
+      </div>
+
+  </div>
+  </div>
+</header>
+    <div id="menu">
+        <ul>
+          <li class="nav-item dropdown" style="background-color: #b1d337;height: 40px;">
+            <a class="nav-link dropdown-toggle" href="#" id="navbardrop" data-toggle="dropdown">
+              Trang ch?
+            </a></li>
+          <li class="nav-item dropdown">
+            <a class="nav-link dropdown-toggle" href="#" id="navbardrop" data-toggle="dropdown">
+              Gi?i thi?u
+            </a>
+            <div class="dropdown-menu">
+              <a class="dropdown-item" href="#" style="color: black">L?ch s? h¨¬nh th¨¤nh - Ph¨¢t tri?n</a>
+              <a class="dropdown-item" href="#" style="color: black">S? m?ng, t?m nh¨¬n, m?c ti¨ºu, gi¨¢ tr? c?t l?i</a>
+              <a class="dropdown-item" href="#" style="color: black">Ph??ng tram, kh?u hi?u</a>
+              <a class="dropdown-item" href="#" style="color: black">C? c?u t? ch?c</a>
+              <a class="dropdown-item" href="#" style="color: black">??ng ?y</a>
+              <a class="dropdown-item" href="#" style="color: black">H?i ??ng tr??ng</a>
+              <a class="dropdown-item" href="#" style="color: black">Ban gi¨¢m hi?u</a>
+              <a class="dropdown-item" href="#" style="color: black">C?ng ?o¨¤n tr??ng</a>
+              <a class="dropdown-item" href="#" style="color: black">?o¨¤n thanh ni¨ºn</a>
+              <a class="dropdown-item" href="#" style="color: black">H?i sinh vi¨ºn</a>
+              <a class="dropdown-item" href="#" style="color: black">Ch?c n?ng nhi?m v? c¨¢c ??n v?</a>
+              <a class="dropdown-item" href="#" style="color: black">Logo tr??ng</a>
+              <a class="dropdown-item" href="#" style="color: black">To¨¤n c?nh v? tr??ng</a>
+              <a class="dropdown-item" href="#" style="color: black">video gi?i thi?u v? tr??ng</a>
+            </div>
+          </li>
+          <li class="nav-item dropdown">
+            <a class="nav-link dropdown-toggle" href="#" id="navbardrop" data-toggle="dropdown">
+              ?¨¤o t?o
+            </a>
+            <div class="dropdown-menu">
+              <a class="dropdown-item" href="#" style="color: black">?¨¤o t?o ti?n s?</a>
+              <a class="dropdown-item" href="#" style="color: black">?¨¤o t?o th?c s?</a>
+              <a class="dropdown-item" href="#" style="color: black">?¨¤o t?o ??i h?c ch¨ªnh quy</a>
+              <a class="dropdown-item" href="#" style="color: black">?¨¤o t?o ??i h?c li¨ºn th?ng</a>
+              <a class="dropdown-item" href="#" style="color: black">?¨¤o t?o ??i h?c v?n b?ng 2</a>
+              <a class="dropdown-item" href="#" style="color: black">Tra c?u sinh vi¨ºn t?t nghi?p</a>
+            </div>
+          </li>
+          <li class="nav-item dropdown" >
+            <a class="nav-link dropdown-toggle" href="#" id="navbardrop" data-toggle="dropdown">
+              Khoa h?c c?ng ngh?
+            </a>
+            <div class="dropdown-menu">
+              <a class="dropdown-item" href="#" style="color: black">gi?i thi?u chung</a>
+              <a class="dropdown-item" href="#" style="color: black">C?ng tr¨¬nh khoa h?c</a>
+              <a class="dropdown-item" href="#" style="color: black">H?i ngh? - H?i th?o</a>
+              <a class="dropdown-item" href="#" style="color: black">?? t¨¤i NCKH (CBVC)</a>
+              <a class="dropdown-item" href="#" style="color: black">?? t¨¤i nghi¨ºn c?u khoa h?c (Sinh vi¨ºn)</a>
+              <a class="dropdown-item" href="#" style="color: black">H?p t¨¢c nghi¨ºn c?u</a>
+              <a class="dropdown-item" href="#" style="color: black">Danh m?c b¨¤i b¨¢o qu?c t?</a>
+            </div>
+          </li>
+          <li class="nav-item dropdown">
+            <a class="nav-link dropdown-toggle" href="#" id="navbardrop" data-toggle="dropdown">
+              H?p t¨¢c qu?c t?
+            </a>
+            <div class="dropdown-menu">
+              <a class="dropdown-item" href="#" style="color: black">gi?i thi?u chung</a>
+              <a class="dropdown-item" href="#" style="color: black">Tin t?c,ho?t ??ng</a>
+              <a class="dropdown-item" href="#" style="color: black">??i t¨¢c qu?c t?</a>
+              <a class="dropdown-item" href="#" style="color: black">H?i ngh? - H?i th?o</a>
+              <a class="dropdown-item" href="#" style="color: black">?? t¨¤i, d? ¨¢n HTQT</a>
+              <a class="dropdown-item" href="#" style="color: black">H?c b?ng trao ??i sinh vi¨ºn</a>
+            </div>
+          </li>
+          <li class="nav-item dropdown">
+            <a class="nav-link dropdown-toggle" href="#" id="navbardrop" data-toggle="dropdown">
+              Sinh vi¨ºn
+            </a>
+            <div class="dropdown-menu">
+              <a class="dropdown-item" href="#" style="color: black">Th?ng b¨¢o cho sinh vi¨ºn</a>
+              <a class="dropdown-item" href="#" style="color: black">Quy ch? - Quy ??nh</a>
+              <a class="dropdown-item" href="#" style="color: black">Ho?t ??ng sinh vi¨ºn</a>
+              <a class="dropdown-item" href="#" style="color: black">H?c b?ng - Du h?c</a>
+              <a class="dropdown-item" href="#" style="color: black">C?u sinh vi¨ºn</a>
+            </div>
+          </li>
+          <li class="nav-item dropdown">
+            <a class="nav-link dropdown-toggle" href="#" id="navbardrop" data-toggle="dropdown">
+              C?ng ?o¨¤n
+            </a></li>
+          <li class="nav-item dropdown">
+            <a class="nav-link dropdown-toggle" href="#" id="navbardrop" data-toggle="dropdown">
+              Vi?c l¨¤m
+            </a></li>
+        </ul>
+    </div>
+    </header>
+  <div id="chaomung">
+    <marquee behavior="scroll" direction="left" scrollamount="3" style="color: blue;position: relative;top: 5px;margin: auto;">Ch¨¤o m?ng ??n v?i c?ng th?ng tin tr??ng ??i h?c Lam Nghi?p</marquee>
+    <img src="anh.jpg" alt="" id="anh">
+    <img src="viet.jpg" alt="" id="viet">
+  </div>
+
+<div class="container">
+  
+</div>
+
+<body>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+    <!-- Th? vi?n popper ?? n¨¦n ph?c v? cho bootstrap.min.js -->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.6/umd/popper.min.js"></script>
+    <!-- B?n js ?? n¨¦n c?a bootstrap 4, ??t d??i c¨´ng tr??c th? ?¨®ng body-->
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-beta.2/js/bootstrap.min.js"></script>
+</body>
+</html>
