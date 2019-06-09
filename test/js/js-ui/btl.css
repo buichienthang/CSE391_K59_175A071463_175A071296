@@ -1,0 +1,125 @@
+#d1{
+	margin-top: -80px;
+	position: absolute;
+	right: 280px;
+	width: 500px;
+}
+.row1 a{
+	margin-right: 20px;
+	margin-left: 20px;
+	text-decoration: none;
+	height: 20px;
+}
+#d2{
+	position: relative;
+	margin-top: 30px;
+	margin-left: 1500px;
+}
+#a1{
+	width: 40px;
+	height: 40px;
+}
+.col-sm-4{
+	width: 100vw;
+}
+.form-control{
+	
+}
+#s1{
+	position:relative;
+	right: 410px;
+	top: -30px;
+	height: 35px;
+	border-radius: 5px;
+	left: -285px;
+}
+#chaomung{
+	position: relative;
+	left: 500px;
+	width: 900px;
+	height: 26px;
+	display: inline-flex;
+}
+#menu ul{
+	background-color: #1184b3;
+	list-style-type: none;
+	text-align: center;
+	margin-top: 0px;
+	height: 55px;
+}
+#menu li{
+	color: white;
+	display: inline-block;
+	height: 30px;
+}
+#search{
+	position: absolute;
+	right: 310px;
+	top: -23px;
+	border-radius: 5px;
+	z-index: 2;
+}
+#menu li a{
+	color: white;
+}
+.container{
+	display: absolute;
+
+	width: 100vw;
+}
+#anh{
+	width: 30px;
+	height: 23px;
+	margin-left: 40px;
+	margin-top: 8px;
+}
+#viet{
+	width: 30px;
+	height: 23px;
+	margin-left: 10px;
+	margin-top: 8px;
+}
+#menu ul li:hover a{
+		background:#b1d337 !important;
+	}
+
+#menu{
+	height: 60px;
+}
+.container{
+	background-color: black;
+	margin-top: 30px;
+}
+#tin {
+	position: relative;
+	margin-right: 0px;
+	width: 280px;
+	left: 800px;
+}
+#picture img{
+	width: 280px;margin-bottom: 10px;
+}
+#tin {
+	background-color: #E6E6E6;
+
+}
+<style>body {
+}
+.carousel-indicators {  
+bottom:15px;    
+left:10px;  
+width:auto; 
+margin-left:0;
+}
+.carousel-indicators li {   
+border-radius:0;    
+width:8px;  
+height:8px; 
+background:#fff;
+}
+.carousel-indicators .active {  
+width:10px; 
+height:10px;    
+background:#3276b1; 
+border-color:#3276b1;
+}</style>
